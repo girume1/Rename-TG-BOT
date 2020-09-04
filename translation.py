@@ -1,28 +1,27 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/naamnhibtaunga)
-              🎈 @bratflix 🎈
+    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://t.me/M1nH11)
+              🎈 @Gold_Digger_Prank 🎈
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
 SEE /help For My Features"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
-    UPGRADE_TEXT = "CONTACT @naamnhibtaunga"
+    UPGRADE_TEXT = "CONTACT @M1nH11"
     DOWNLOAD_START = "Downloading😊"
     UPLOAD_START = "Uploading✨"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @PUBLIC_LEECH_2"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Next File **"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @naamnhibtaunga"
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @naamnhibtaunga"
+    NOT_AUTH_USER_TEXT = "CONTACT @M1nH11"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @M1nH11"
     SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Set 😂😂😏"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Pooyee🤣🤣"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """
-<b>Join Group➣</b> <a href="https://t.me/joinchat/NHBcN0lP1By_OJGZfIbwXA">Click Here</a>
-<b>Main Channel➣</b> <a HREF="https://t.me/joinchat/AAAAAEpVEgQCfq4ZkGfabg">Click Here</a>
-<b>Backup Channel➣</b> <a href="https://t.me/joinchat/AAAAAEph9Bzx1lTl3z3hbQ">Click Here</a>
-✯ ━━ @Bratflix ━━ ✯"""
+<b>Main Channel➣</b> <a HREF="https://t.me/joinchat/AAAAAEicUe7xpsRZdvRLfQ">Click Here</a>
+<b>Backup Channel➣</b> <a href="https://t.me/joinchat/AAAAAEi2jC5Rp-rs69xbOw">Click Here</a>
+✯ ━━ @Gold_Digger_Prank ━━ ✯"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
