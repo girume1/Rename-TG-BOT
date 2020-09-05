@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://t.me/M1nH11)
               🎈 @Gold_Digger_Prank 🎈
-<b>Please send me any Telegram file and reply /rename New Name.extn</b>
+<b>Please send me any Telegram file and reply /change New Name.extn</b>
 SEE /help For My Features"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
@@ -24,12 +24,12 @@ SEE /help For My Features"""
 ✯ ━━ @Gold_Digger_Prank ━━ ✯"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
-    2. Reply to that message to /rename NEW NAME.EXTENSION
+    2. Reply to that message to /change NEW NAME.EXTENSION
     FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
     ➡ FOR More Join"""
-    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
+    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /change Filename.extn"
     IFLONG_FILE_NAME = """Cheriya Name Aaakadeey"""
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
     CANCEL_STR = "Process Cancelled"
