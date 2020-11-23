@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://t.me/M1nH11)
-              🎈 @Gold_Digger_Prank 🎈
+              🎈 @capl_pict 🎈
 <b>Please send me any Telegram file and reply /change New Name.extn</b>
 SEE /help For My Features"""
 
@@ -19,9 +19,9 @@ SEE /help For My Features"""
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """
-<b>Main Channel➣</b> <a HREF="https://t.me/joinchat/AAAAAEicUe7xpsRZdvRLfQ">Click Here</a>
-<b>Backup Channel➣</b> <a href="https://t.me/joinchat/AAAAAEi2jC5Rp-rs69xbOw">Click Here</a>
-✯ ━━ @Gold_Digger_Prank ━━ ✯"""
+<b>Main Channel➣</b> <a HREF="https://t.me/joinchat/AAAAAEy00KcpNxIxbiDENg">Click Here</a>
+<b>Backup Channel➣</b> <a href="https://t.me/joinchat/AAAAAEi2jC5MwMtMAQxP5w">Click Here</a>
+✯ ━━ @capl_pict ━━ ✯"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /change NEW NAME.EXTENSION
